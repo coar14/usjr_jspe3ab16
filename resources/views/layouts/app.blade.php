@@ -20,6 +20,9 @@
                 <li class="nav-item">
                     <a class="nav-link" href="{{ url('/show/colleges') }}">All Colleges</a>
                 </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="{{ url('/show/colleges') }}">All Departments</a>
+                </li>
             </ul>
         </div>
     </nav>
